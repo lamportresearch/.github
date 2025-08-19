@@ -1,4 +1,4 @@
-# Lamport Research ⚙️🧠
+# Lamport Research 
 
 **Lamport Research** is a systems and intelligence lab building the infrastructure for a future where intelligent systems and human coordination scale together.
 
@@ -22,7 +22,7 @@ Our research and engineering efforts are grounded in long-term clarity and relia
   New primitives for trust, collaboration, and incentive design.
 
 
-## Runtime: Future of Work 🧩
+## Runtime: Future of Work 
 
 **Runtime** is our flagship coordination infrastructure—an L2 DAO-native chain purpose-built for scalable, verifiable work. It’s where humans, agents, and institutions interact through **programmable logic and incentives**.
 
@@ -32,7 +32,7 @@ Together, **Lamport** and **Runtime** aim to rewire how value is created and dis
 
 >It’s not just a DAO. It’s infrastructure for collective intelligence—modular, upgradable, and grounded in execution. 
 
-## Join Us 🤝
+## Join Us 
 
 We’re always looking to collaborate with sharp minds who care about engineering, clarity, and systems thinking.
 
