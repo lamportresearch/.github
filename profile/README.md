@@ -1,42 +1,31 @@
-# Lamport Research 
+### Lamport Research
 
-**Lamport Research** is a systems and intelligence lab building the infrastructure for a future where intelligent systems and human coordination scale together.
+Lamport Research is a theoretical and applied science lab dedicated to building the foundations for provably reliable intelligent systems. We believe the next frontier in AI is not just about scaling capabilities, but about ensuring their correctness, transparency, and logical soundness. Our work confronts the core challenge of modern AI: bridging the gap between high empirical performance and the lack of formal guarantees.
 
-We believe AI’s true potential lies not in replacing humans, but in **redesigning how we work, collaborate, and solve problems**—at scale. Our work focuses on creating durable AI runtimes, structured reasoning frameworks, and programmable organizations. We build systems that are not only powerful, but **interpretable, composable, and culturally aware**.
+We engineer systems that are not merely powerful, but are also verifiable by design.
 
+### Our Research Pillars 
+Our research is concentrated on two deeply interconnected areas: creating a verifiable substrate for the entire AI lifecycle and redesigning the reasoning core of AI itself.
 
-## What We’re Building 🛠️
+1. The Verification Stack for AI Workflows
+The reliability of an intelligent system is a product of the integrity of its entire development pipeline. We are building a comprehensive verification stack to bring mathematical rigor to each stage of an AI workflow. This is not about post-hoc testing; it's about embedding formal methods directly into the development process. 
 
-Our research and engineering efforts are grounded in long-term clarity and reliability—not hype. We focus on foundational infrastructure that enables AI to operate in high-stakes, production-grade environments:
+Our focus includes:
 
-* **Resilient Execution Layers**
-  Durable, fault-tolerant runtimes for complex, intelligent workflows.
+- Data Provenance & Preparation: Developing cryptographic and logical frameworks to formally verify the origin, transformations, and statistical properties of training data.
+- Synthetic Data & Curation: Creating protocols to guarantee that synthetic data adheres to specified constraints and distributions, and that data curation processes are formally specified and auditable.
+- Evaluation & Testing: Designing adversarial testing frameworks and formal verification techniques to prove model behavior under specific conditions, moving beyond simple accuracy metrics to quantifiable robustness.
+- Reward Mechanisms: Engineering formally verifiable reward functions for Reinforcement Learning, ensuring that agent incentives are provably aligned with high-level goals and safety constraints.
 
-* **Structured Reasoning Systems**
-  Modular tools for planning, inference, and verifiable decision-making.
+2. Neurosymbolic Reasoning Engines
+We contend that true AI reliability requires models that can reason, not just recognize patterns. We build next-generation neurosymbolic engines that fuse the perceptual power of deep learning with the rigorous, transparent logic of symbolic reasoning. These systems are designed for high-stakes environments where "black box" solutions are unacceptable. 
 
-* **Agentic Workflows & Human-AI Interfaces**
-  Scalable coordination between humans and agents in the loop.
+Our work in this area aims to produce models that are:
 
-* **Programmable Organizations**
-  New primitives for trust, collaboration, and incentive design.
+- Interpretable: Their decision-making processes can be audited and understood in human-readable terms.
+- Composable: They can be assembled from smaller, verified logical components to solve more complex problems.
+- Correctable: They can be updated and debugged at the level of their internal logic, not just through expensive retraining.
+- Causally Aware: They can reason about cause and effect, enabling more robust planning and inference.
 
-
-## Runtime: Future of Work 
-
-**Runtime** is our flagship coordination infrastructure—an L2 DAO-native chain purpose-built for scalable, verifiable work. It’s where humans, agents, and institutions interact through **programmable logic and incentives**.
-
-Unlike general-purpose blockchains, Runtime is opinionated: it’s designed specifically around **tasks, trust, and execution**. Built with Lamport’s infrastructure, Runtime isn’t a community experiment—it’s a modular operating system for collective intelligence in a post-AI economy.
-
-Together, **Lamport** and **Runtime** aim to rewire how value is created and distributed—through robust systems that make complex work scalable, verifiable, and adaptive.
-
->It’s not just a DAO. It’s infrastructure for collective intelligence—modular, upgradable, and grounded in execution. 
-
-## Join Us 
-
-We’re always looking to collaborate with sharp minds who care about engineering, clarity, and systems thinking.
-
-If you're working—or want to work—at the frontiers of **AI**, **Economics**, and **Computer Science**, we’d love to hear from you.
-
-📫 **Reach out**: hi@lamport.ai 
-
+### Join Us
+We are seeking collaborators who are passionate about the deep synthesis of formal methods, machine learning, logic, and systems engineering. If you are driven to build AI that is not only capable but also trustworthy and mathematically sound, we would love to hear from you.
